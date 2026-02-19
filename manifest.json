@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "AI Buddy - Strategic Sourcing Assistant",
+  "version": "2.0.0",
+  "description": "AI-powered assistant for Category Managers with market research and strategic sourcing capabilities",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "sidePanel",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://api.groq.com/*",
+    "https://thomasnet.com/*",
+    "https://www.indiamart.com/*",
+    "https://www.alibaba.com/*",
+    "https://comtrade.un.org/*",
+    "https://tradingeconomics.com/*",
+    "https://news.google.com/*",
+    "https://*/*"
+  ],
+  "action": {
+    "default_title": "AI Buddy - Strategic Sourcing"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
