@@ -2,7 +2,7 @@
 
 A powerful Chrome extension designed specifically for Category Managers and Strategic Sourcing professionals in Telecom MNCs. AI Buddy combines AI-powered assistance with real-time market research capabilities to streamline procurement workflows.
 
-![AI Buddy Logo](./demo-images/logo-banner.png)
+![AI Buddy Logo](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/HomeScreen.png?raw=true)
 
 ## Overview
 
@@ -35,22 +35,25 @@ AI Buddy is an intelligent Chrome extension that serves as your personal Strateg
 ## Screenshots
 
 ### Main Interface
-![Main Interface](./demo-images/main-interface.png)
+![Main Interface](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/HomeScreen2.png?raw=true)
 
 ### Mode Selection Dropdown
-![Mode Selection](./demo-images/mode-selection.png)
+![Mode Selection](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/ModeSelection.png?raw=true)
 
 ### Market Research Results
-![Market Research](./demo-images/market-research.png)
+![Market Research](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/Market%20Research%20Results.png?raw=true)
 
-### Task Management
-![Task Management](./demo-images/task-management.png)
+### Task Management (Adding Tasks)
+![Task Management](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/Adding%20Tasks.png?raw=true)
+
+### Task Management (Analyze Tasks)
+![Task Management](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/Task%20Analyzer%20Output.png?raw=true)
 
 ### Settings Page
-![Settings](./demo-images/settings-page.png)
+![Settings](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/Settings.png?raw=true)
 
 ### Full-Screen Mode
-![Full-Screen Mode](./demo-images/fullscreen-mode.png)
+![Full-Screen Mode](https://github.com/Ashad-Ahmed/AIBuddyExtension/blob/main/DemoScreenShots_AIBrowserExtension/Full%20Screen%20Mode.png?raw=true)
 
 ## Installation
 
